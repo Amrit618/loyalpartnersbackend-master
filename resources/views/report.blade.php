@@ -45,9 +45,11 @@
 .table_wrapper{
   padding: 0 10%;
 }
+    
 #listname{
   padding:10px;
 }
+    
 #desc{
   padding: 10px 10%;
 }
